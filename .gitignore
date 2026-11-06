@@ -1,0 +1,37 @@
+# SolidWorks
+*.sldlfp
+*.sldprt$
+*.sldasm$
+*.slddrw$
+*.bak
+*.zipx
+~$*.sld*
+*.prt.*
+*.asm.*
+*.drw.*
+*.sldprt.bak
+*.sldasm.bak
+*.slddrw.bak
+
+# NX / UG
+*.prt.1
+*.prt.2
+*.prt.bak
+*.uglog
+*.jt
+*.pax
+nxlog*
+
+# STEP / IGS 临时
+*.stp.zip
+*.step.zip
+*.igs.zip
+*.iges.zip
+
+# 系统缓存
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git 本身
+.git/
