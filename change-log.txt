@@ -11,3 +11,12 @@ backup.sh
 backup.bat
 change-log.txt
 
+=====================================
+时间: 2026-11-06 21:04:40
+备注: 新增：view-log.sh、export-zip.sh、clean-cad.sh
+改动文件:
+change-log.txt
+clean-cad.sh
+export-zip.sh
+view-log.sh
+
