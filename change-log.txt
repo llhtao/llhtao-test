@@ -20,3 +20,10 @@ clean-cad.sh
 export-zip.sh
 view-log.sh
 
+=====================================
+时间: 2026-11-06 21:10:02
+备注: 添加完整仓库说明 README.md
+改动文件:
+README.md
+change-log.txt
+
