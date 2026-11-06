@@ -27,3 +27,10 @@ view-log.sh
 README.md
 change-log.txt
 
+=====================================
+时间: 2026-11-06 21:11:53
+备注: 新增版本回滚脚本 rollback.sh
+改动文件:
+change-log.txt
+rollback.sh
+
